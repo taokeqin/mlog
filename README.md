@@ -1,3 +1,11 @@
+# For taokeqin/mlog
+
+I like this library as it's in a morden coding style, lightweight and easy to use.
+As i always code on window with mingw, and std::thread used in this library are not support in mingw at this moment.
+I will use this repo to trace my changes.
+
+#=======================================================
+
 # mlog
 
 a comfortable lightweight C++ logging library -- header-only, cross-platform, C++11.
